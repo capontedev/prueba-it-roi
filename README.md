@@ -2,6 +2,6 @@
 
 Para correr 
 
-´´´
+```
 npm run dev
-´´´
+```
